@@ -16,3 +16,11 @@ node_modules
 package-lock.json
 
 # Misc
+_sass/dist
+assets/js/dist
+
+# macOS
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
