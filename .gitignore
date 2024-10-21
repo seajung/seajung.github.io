@@ -16,5 +16,3 @@ node_modules
 package-lock.json
 
 # Misc
-_sass/dist
-assets/js/dist
